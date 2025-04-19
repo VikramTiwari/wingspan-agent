@@ -1,15 +1,21 @@
 import os
 import asyncio
+
+from dotenv import load_dotenv
 from google.adk.agents import Agent
 from google.adk.models.lite_llm import LiteLlm # For multi-model support
 from google.adk.sessions import InMemorySessionService
+from google.adk.artifacts import InMemoryArtifactService
 from google.adk.runners import Runner
 from enum import Enum
 from google.genai import types # For creating message Content/Parts
 
-from src.agents.bird_facts import bird_facts_agent
+load_dotenv(verbose=True)
 
 import warnings
+
+from src.agents.wingspan import wingspan_agent
+
 warnings.filterwarnings("ignore")
 
 import logging
@@ -32,12 +38,15 @@ session = session_service.create_session(
 )
 print(f"Session created: App='{APP_NAME}', User='{USER_ID}', Session='{SESSION_ID}'")
 
+artifact_service = InMemoryArtifactService()
+
 # --- Runner ---
 # Runner orchestrates the agent execution loop.
 runner = Runner(
-    agent=bird_facts_agent,
+    agent=wingspan_agent,
     app_name=APP_NAME,   # Associates runs with our app
-    session_service=session_service # Uses our session manager
+    session_service=session_service, # Uses our session manager
+    artifact_service=artifact_service, # Uses our artifact manager
 )
 print(f"Runner created for agent '{runner.agent.name}'.")
 
@@ -83,6 +92,17 @@ async def run_conversation():
                                        runner=runner,
                                        user_id=USER_ID,
                                        session_id=SESSION_ID)
+    # should work, but needs more data
+    await call_agent_async("What's the scientific name of the Bald Eagle?",
+                           runner=runner,
+                           user_id=USER_ID,
+                           session_id=SESSION_ID)
+
+    # shouldn't work and doesn't
+    await call_agent_async("Tell me about the Golden Mouse",
+                           runner=runner,
+                           user_id=USER_ID,
+                           session_id=SESSION_ID)
 
 
 # Execute the conversation using await in an async context (like Colab/Jupyter)
