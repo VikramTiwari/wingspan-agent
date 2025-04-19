@@ -65,6 +65,7 @@ def get_bird(bird_name: str) -> dict:
             common_name: string
             scientific_name: string
             nest_type: string
+            wingspan: number
     """
     try:
         print(f"--- Tool: get_bird called for bird: {bird_name} ---") # Log tool execution

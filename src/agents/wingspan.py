@@ -4,7 +4,7 @@ from src.agents.bird_facts import bird_facts_agent
 from src.agents.bird_image_recognition import bird_image_recognition_agent
 from src.tools.get_bird import get_bird
 
-AGENT_MODEL='gemini-2.0-flash-lite'
+AGENT_MODEL='gemini-2.0-flash'
 AGENT_NAME="wingspan_agent_v1"
 AGENT_DESCRIPTION="The main coordinator agent for the Wingspan app. Handles user queries and coordinates other agents."
 AGENT_INSTRUCTIONS=[
@@ -12,7 +12,9 @@ AGENT_INSTRUCTIONS=[
     "You have specialized sub-agents for different tasks.",
     "1. bird_facts_agent: Provides facts about birds.",
     "2. bird_image_recognition_agent: Identifies birds from images.",
-    "You can also ask the user clarifying questions if needed.",
+    "Start with identifying if user's query has a bird name or an image.",
+    "If the query has a bird name, delegate to the bird_facts_agent.",
+    "If the query has an image, delegate to the bird_image_recognition_agent.",
     "For anything unrelated to birds, you should say 'I can only help with birds.'",
 ]
 AGENT_TOOLS=[get_bird]

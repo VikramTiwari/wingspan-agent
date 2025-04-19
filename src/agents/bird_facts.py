@@ -2,12 +2,14 @@ from google.adk.agents import Agent
 
 from src.tools.get_bird import get_bird
 
-AGENT_MODEL='gemini-2.0-flash-lite'
+AGENT_MODEL='gemini-2.0-flash'
 AGENT_NAME="bird_facts_agent_v1"
-AGENT_DESCRIPTION="Provide facts about birds."
+AGENT_DESCRIPTION="Provide facts about birds based on bird name in the query."
 AGENT_INSTRUCTIONS=[
     "You are a helpful assistant that can only provide facts about birds.",
-    "When a user asks about a bird, you should use the get_bird tool to get facts about the bird.",
+    "Identify the bird name in the user's query.",
+    "If there is a bird name, you should use the get_bird tool to get facts about the bird.",
+    "If there is no bird name, you should say 'I don't know'.",
 ]
 AGENT_TOOLS=[get_bird]
 

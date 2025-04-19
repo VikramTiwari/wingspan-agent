@@ -78,12 +78,12 @@ async def call_agent_async(query: str, runner, user_id, session_id):
 
 
 async def run_conversation():
-    await call_agent_async("Tell me about the Galah",
+    await call_agent_async("Tell me about the galah",
                                        runner=runner,
                                        user_id=USER_ID,
                                        session_id=SESSION_ID)
 
-    await call_agent_async("How about American Avocet?",
+    await call_agent_async("What's the wing span of american avocet?",
                                        runner=runner,
                                        user_id=USER_ID,
                                        session_id=SESSION_ID) # Expecting the tool's error message
@@ -93,13 +93,13 @@ async def run_conversation():
                                        user_id=USER_ID,
                                        session_id=SESSION_ID)
     # should work, but needs more data
-    await call_agent_async("What's the scientific name of the Bald Eagle?",
+    await call_agent_async("What's the scientific name of the bald eagle?",
                            runner=runner,
                            user_id=USER_ID,
                            session_id=SESSION_ID)
 
     # shouldn't work and doesn't
-    await call_agent_async("Tell me about the Golden Mouse",
+    await call_agent_async("Tell me about the golden mouse",
                            runner=runner,
                            user_id=USER_ID,
                            session_id=SESSION_ID)
