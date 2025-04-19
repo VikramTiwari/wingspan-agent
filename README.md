@@ -1,6 +1,13 @@
-# AI Agent using Google's Agent Development Kit (ADK)
+# Wingspan Agent
 
-This project implements an AI agent using Google's Agent Development Kit (ADK) Python library.
+An AI agent implementation using Google's Agent Development Kit (ADK) and LiteLLM for flexible LLM integration.
+
+## Features
+
+- Integration with Google's Agent Development Kit (ADK)
+- Support for multiple LLM providers through LiteLLM
+- Data processing capabilities with pandas
+- Environment-based configuration
 
 ## Setup
 
@@ -37,8 +44,10 @@ uv pip install -r requirements.txt
   - `agents/` - Agent implementations
   - `tools/` - Custom tools for the agent
   - `config/` - Configuration files
+  - `main.py` - Entry point
 - `tests/` - Test files
 - `requirements.txt` - Project dependencies
+- `pyproject.toml` - Project metadata and build configuration
 
 ## Running the Agent
 
@@ -59,4 +68,8 @@ To add new dependencies:
 ```bash
 uv pip install package-name
 uv pip freeze > requirements.txt
-``` 
+```
+
+## License
+
+MIT License 
