@@ -3,7 +3,7 @@ from google.adk.sessions import InMemorySessionService
 from google.adk.artifacts import InMemoryArtifactService
 from google.genai import types # For creating message Content/Parts
 
-from src.agents.wingspan import wingspan_agent
+from src import wingspan_agent
 
 APP_NAME = "wingspan"
 

@@ -23,10 +23,10 @@ AGENT_SUBAGENTS=[
     bird_image_recognition_agent
 ]
 
-wingspan_agent = None
+root_agent = None
 
 try:
-    wingspan_agent = Agent(
+    root_agent = Agent(
         name=AGENT_NAME,
         description=AGENT_DESCRIPTION,
         instruction="\n".join(AGENT_INSTRUCTIONS),
