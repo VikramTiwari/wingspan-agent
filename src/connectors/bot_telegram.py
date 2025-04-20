@@ -4,7 +4,8 @@ import os
 from dotenv import load_dotenv
 from telegram import Update
 from telegram.ext import ApplicationBuilder, ContextTypes, CommandHandler, MessageHandler, filters
-from src.main import call_agent_async, runner, APP_NAME
+from src.manager import runner, APP_NAME, call_agent_async
+
 
 load_dotenv()
 
@@ -48,7 +49,6 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
         # Call the agent and get the response
         response = await call_agent_async(
             query=update.message.text,
-            runner=runner,
             user_id=user_id,
             session_id=session_id
         )
@@ -65,7 +65,7 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
             text="Sorry, I encountered an error processing your message."
         )
 
-if __name__ == '__main__':
+def run_telegram_bot():
     application = ApplicationBuilder().token(TELEGRAM_TOKEN).build()
 
     start_handler = CommandHandler('start', start)
@@ -75,3 +75,4 @@ if __name__ == '__main__':
     application.add_handler(message_handler)
 
     application.run_polling()
+
