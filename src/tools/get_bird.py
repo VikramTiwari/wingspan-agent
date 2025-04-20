@@ -18,6 +18,9 @@ bird_not_found = {
     "scientific_name": "Bird not found",
     "nest_type": NestType.NONE.value,
     "wingspan": 0,
+    "habitat_forest": False,
+    "habitat_grassland": False,
+    "habitat_wetland": False
 }
 
 def load_wingspan_db() -> dict:
@@ -42,7 +45,10 @@ def load_wingspan_db() -> dict:
                 "common_name": row['common_name'],
                 "scientific_name": row['scientific_name'],
                 "nest_type": row['nest_type'],
-                "wingspan": row['wingspan']
+                "wingspan": row['wingspan'],
+                "habitat_forest": row['habitat_forest'],
+                "habitat_grassland": row['habitat_grassland'],
+                "habitat_wetland": row['habitat_wetland']
             }
 
         return birds_dict
@@ -66,6 +72,9 @@ def get_bird(bird_name: str) -> dict:
             scientific_name: string
             nest_type: string
             wingspan: number
+            habitat_forest: boolean
+            habitat_grassland: boolean
+            habitat_wetland: boolean
     """
     try:
         print(f"--- Tool: get_bird called for bird: {bird_name} ---") # Log tool execution

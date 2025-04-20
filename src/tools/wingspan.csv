@@ -1,447 +1,447 @@
-id,common_name,scientific_name,nest_type,wingspan
-263,Abbott's Booby,Papasula abbotti,Platform,190
-2,Acorn Woodpecker,Melanerpes formicivorus,Cavity,46
-3,American Avocet,Recurvirostra americana,Ground,79
-4,American Bittern,Botaurus lentiginosus,Platform,107
-5,American Coot,Fulica americana,Platform,61
-6,American Crow,Corvus brachyrhynchos,Platform,99
-7,American Goldfinch,Spinus tristis,Bowl,23
-8,American Kestrel,Falco sparverius,Cavity,56
-9,American Oystercatcher,Haematopus palliatus,Ground,81
-10,American Redstart,Setophaga ruticilla,Bowl,20
-11,American Robin,Turdus migratorius,Bowl,43
-12,American White Pelican,Pelecanus erythrorhynchos,Ground,274
-13,American Woodcock,Scolopax minor,Ground,46
-14,Anhinga,Anhinga anhinga,Platform,114
-15,Anna's Hummingbird,Calypte anna,Bowl,13
-16,Ash-Throated Flycatcher,Myiarchus cinerascens,Cavity,30
-358,Asian Emerald Dove,Chalcophaps indica,Platform,44
-359,Asian Koel,Eudynamys scolopaceus,None,62
-17,Atlantic Puffin,Fratercula arctica,Wild,53
-18,Audouin's Gull,Ichthyaetus audouinii,Ground,132
-264,Australasian Pipit,Anthus novaeseelandiae,Ground,31
-265,Australasian Shoveler,Spatula rhynchotis,Ground,75
-266,Australian Ibis,Threskiornis moluccus,Platform,118
-267,Australian Magpie,Gymnorhina tibicen,Platform,75
-268,Australian Owlet-Nightjar,Aegotheles cristatus,Cavity,28
-269,Australian Raven,Corvus coronoides,Platform,100
-270,Australian Reed Warbler,Acrocephalus australis,Bowl,21
-271,Australian Shelduck,Tadorna tadornoides,Cavity,113
-272,Australian Zebra Finch,Taeniopygia castanotis,Wild,22
-360,Azure Tit,Cyanistes cyanus,Cavity,22
-19,Baird's Sparrow,Ammodramus bairdii,Ground,23
-20,Bald Eagle,Haliaeetus leucocephalus,Platform,203
-21,Baltimore Oriole,Icterus galbula,Wild,30
-22,Barn Owl,Tyto alba,Cavity,107
-23,Barn Swallow,Hirundo rustica,Wild,38
-24,Barred Owl,Strix varia,Cavity,107
-25,Barrow's Goldeneye,Bucephala islandica,Cavity,71
-361,Baya Weaver,Ploceus philippinus,Wild,27
-362,Bearded Reedling,Panurus biarmicus,Bowl,17
-26,Bell's Vireo,Vireo bellii,Wild,18
-27,Belted Kingfisher,Megaceryle alcyon,Wild,53
-28,Bewick's Wren,Thryomanes bewickii,Cavity,18
-363,Black Drongo,Dicrurus macrocercus,Bowl,27
-273,Black Noddy,Anous minutus,Platform,69
-29,Black Redstart,Phoenicurus ochruros,Wild,24
-30,Black Skimmer,Rynchops niger,Ground,112
-364,Black Stork,Ciconia nigra,Platform,155
-274,Black Swan,Cygnus atratus,Ground,180
-31,Black Tern,Chlidonias niger,Wild,61
-32,Black Vulture,Coragyps atratus,Cavity,150
-33,Black Woodpecker,Dryocopus martius,Cavity,70
-34,Black-Bellied Whistling Duck,Dendrocygna autumnalis,Cavity,76
-35,Black-Billed Magpie,Pica hudsonia,Wild,64
-36,Black-Chinned Hummingbird,Archilochus alexandri,Bowl,8
-37,Black-Crowned Night-Heron,Nycticorax nycticorax,Platform,112
-38,Black-Headed Gull,Chroicocephalus ridibundus,Ground,102
-365,Black-Naped Oriole,Oriolus chinensis,Bowl,50
-39,Black-Necked Stilt,Himantopus mexicanus,Ground,74
-275,Black-Shouldered Kite,Elanus axillaris,Platform,87
-40,Black-Tailed Godwit,Limosa limosa,Ground,76
-41,Black-Throated Diver,Gavia arctica,Ground,120
-42,Blue Grosbeak,Passerina caerulea,Bowl,28
-43,Blue Jay,Cyanocitta cristata,Bowl,41
-366,Blue Rock-Thrush,Monticola solitarius,Cavity,35
-44,Blue-Gray Gnatcatcher,Polioptila caerulea,Bowl,15
-45,Blue-Winged Warbler,Vermivora cyanoptera,Bowl,20
-46,Bluethroat,Luscinia svecica,Ground,22
-276,Blyth's Hornbill,Rhyticeros plicatus,Cavity,150
-47,Bobolink,Dolichonyx oryzivorus,Ground,30
-48,Bonelli's Eagle,Aquila fasciata,Platform,160
-367,Brahminy Kite,Haliastur indus,Platform,125
-368,Brambling,Fringilla montifringilla,Bowl,26
-49,Brant,Branta bernicla,Ground,114
-50,Brewer's Blackbird,Euphagus cyanocephalus,Bowl,41
-51,Broad-Winged Hawk,Buteo platypterus,Platform,85
-277,Brolga,Antigone rubicunda,Ground,215
-52,Bronzed Cowbird,Molothrus aeneus,None,36
-278,Brown Falcon,Falco berigora,Platform,102
-53,Brown Pelican,Pelecanus occidentalis,Platform,201
-369,Brown Shrike,Lanius cristatus,Bowl,24
-54,Brown-Headed Cowbird,Molothrus ater,None,30
-279,Budgerigar,Melopsittacus undulatus,Cavity,30
-55,Bullfinch,Pyrrhula pyrrhula,Bowl,24
-56,Burrowing Owl,Athene cunicularia,Wild,53
-57,Bushtit,Psaltriparus minimus,Wild,15
-58,California Condor,Gymnogyps californianus,Ground,277
-59,California Quail,Callipepla californica,Ground,36
-60,Canada Goose,Branta canadensis,Ground,132
-61,Canvasback,Aythya valisineria,Wild,82
-62,Carolina Chickadee,Poecile carolinensis,Cavity,20
-63,Carolina Wren,Thryothorus ludovicianus,Cavity,20
-64,Carrion Crow,Corvus corone,Platform,92
-65,Cassin's Finch,Haemorhous cassinii,Bowl,30
-66,Cassin's Sparrow,Peucaea cassinii,Ground,20
-67,Cedar Waxwing,Bombycilla cedrorum,Bowl,25
-68,Cerulean Warbler,Setophaga cerulea,Bowl,20
-69,Cetti's Warbler,Cettia cetti,Bowl,17
-70,Chestnut-Collared Longspur,Calcarius ornatus,Ground,25
-71,Chihuahuan Raven,Corvus cryptoleucus,Platform,112
-72,Chimney Swift,Chaetura pelagica,Wild,36
-73,Chipping Sparrow,Spizella passerina,Bowl,23
-74,Clark's Grebe,Aechmophorus clarkii,Wild,61
-75,Clark's Nutcracker,Nucifraga columbiana,Platform,61
-76,Coal Tit,Periparus ater,Cavity,16
-280,Cockatiel,Nymphicus hollandicus,Cavity,32
-77,Common Blackbird,Turdus merula,Bowl,36
-78,Common Buzzard,Buteo buteo,Platform,123
-79,Common Chaffinch,Fringilla coelebs,Bowl,23
-80,Common Chiffchaff,Phylloscopus collybita,Ground,20
-81,Common Cuckoo,Cuculus canorus,None,57
-82,Common Goldeneye,Bucephala clangula,Cavity,73
-83,Common Grackle,Quiscalus quiscula,Bowl,43
-370,Common Green Magpie,Cissa chinensis,Bowl,62
-371,Common Iora,Aegithina tiphia,Bowl,21
-84,Common Kingfisher,Alcedo atthis,Wild,26
-85,Common Little Bittern,Ixobrychus minutus,Platform,49
-86,Common Loon,Gavia immer,Ground,117
-87,Common Merganser,Mergus merganser,Cavity,86
-88,Common Moorhen,Gallinula chloropus,Wild,53
-372,Common Myna,Acridotheres tristis,Cavity,35
-89,Common Nighthawk,Chordeiles minor,Ground,56
-90,Common Nightingale,Luscinia megarhynchos,Bowl,23
-91,Common Raven,Corvus corax,Platform,135
-373,Common Sandpiper,Actitis hypoleucos,Ground,40
-92,Common Starling,Sturnus vulgaris,Cavity,38
-93,Common Swift,Apus apus,Cavity,46
-374,Common Tailorbird,Orthotomus sutorius,Wild,13
-375,Common Teal,Anas crecca,Ground,61
-94,Common Yellowthroat,Geothlypis trichas,Bowl,18
-95,Cooper's Hawk,Accipiter cooperii,Platform,79
-376,Coppersmith Barbet,Psilopogon haemacephalus,Cavity,23
-96,Corsican Nuthatch,Sitta whiteheadi,Cavity,21
-281,Count Raggi's Bird-of-Paradise,Paradisaea raggiana,Bowl,22
-377,Crested Ibis,Nipponia nippon,Platform,140
-378,Crested Lark,Galerida cristata,Ground,34
-282,Crested Pigeon,Ocyphaps lophotes,Platform,45
-283,Crimson Chat,Epthianura tricolor,Bowl,19
-97,Dark-Eyed Junco,Junco hyemalis,Ground,23
-379,Desert Finch,Rhodospiza obsoleta,Bowl,26
-380,Desert Wheatear,Oenanthe deserti,Ground,27
-98,Dickcissel,Spiza americana,Ground,25
-99,Double-Crested Cormorant,Phalacrocorax auritus,Platform,132
-100,Downy Woodpecker,Picoides pubescens,Cavity,30
-101,Dunnock,Prunella modularis,Bowl,20
-102,Eastern Bluebird,Sialia sialis,Cavity,33
-103,Eastern Imperial Eagle,Aquila heliaca,Platform,200
-104,Eastern Kingbird,Tyrannus tyrannus,Bowl,38
-105,Eastern Phoebe,Sayornis phoebe,Wild,28
-284,Eastern Rosella,Platycercus eximius,Cavity,48
-106,Eastern Screech Owl,Megascops asio,Cavity,51
-285,Eastern Whipbird,Psophodes olivaceus,Bowl,30
-107,Eleonora's Falcon,Falco eleonorae,Ground,95
-286,Emu,Dromaius novaehollandiae,Ground,*
-108,Eurasian Collared-Dove,Streptopelia decaocto,Platform,52
-381,Eurasian Coot,Fulica atra,Ground,75
-382,Eurasian Eagle-Owl,Bubo bubo,Platform,174
-109,Eurasian Golden Oriole,Oriolus oriolus,Wild,46
-110,Eurasian Green Woodpecker,Picus viridis,Cavity,48
-111,Eurasian Hobby,Falco subbuteo,Platform,75
-383,Eurasian Hoopoe,Upupa epops,Cavity,46
-112,Eurasian Jay,Garrulus glandarius,Bowl,56
-384,Eurasian Kestrel,Falco tinnunculus,Cavity,68
-113,Eurasian Magpie,Pica pica,Platform,56
-385,Eurasian Marsh-Harrier,Circus aeruginosus,Platform,130
-114,Eurasian Nutcracker,Nucifraga caryocatactes,Bowl,55
-115,Eurasian Nuthatch,Sitta europaea,Cavity,25
-116,Eurasian Sparrowhawk,Accipiter nisus,Platform,65
-117,Eurasian Tree Sparrow,Passer montanus,Cavity,21
-386,Eurasian Treecreeper,Certhia familiaris,Bowl,20
-118,European Bee-Eater,Merops apiaster,Cavity,38
-119,European Goldfinch,Carduelis carduelis,Bowl,23
-120,European Honey Buzzard,Pernis apivorus,Platform,134
-121,European Robin,Erithacus rubecula,Bowl,22
-122,European Roller,Coracias garrulus,Cavity,70
-123,European Turtle Dove,Streptopelia turtur,Platform,51
-124,Ferruginous Hawk,Buteo regalis,Platform,142
-387,Fire-Fronted Serin,Serinus pusillus,Bowl,21
-125,Fish Crow,Corvus ossifragus,Platform,91
-388,Forest Owlet,Athene blewitti,Cavity,56
-126,Forster's Tern,Sterna forsteri,Wild,79
-127,Franklin's Gull,Leucophaeus pipixcan,Wild,91
-287,Galah,Eolophus roseicapilla,Cavity,75
-128,Goldcrest,Regulus regulus,Bowl,15
-129,Golden Eagle,Aquila chrysaetos,Platform,201
-389,Golden Pheasant,Chrysolophus pictus,Ground,70
-288,Golden-Headed Cisticola,Cisticola exilis,Wild,15
-289,Gould's Finch,Erythrura gouldiae,Cavity,14
-390,Graceful Prinia,Prinia gracilis,Wild,13
-391,Grandala,Grandala coelicolor,Bowl,36
-130,Grasshopper Sparrow,Ammodramus savannarum,Ground,20
-131,Gray Catbird,Dumetella carolinensis,Bowl,28
-392,Gray Wagtail,Motacilla cinerea,Bowl,26
-132,Great Blue Heron,Ardea herodias,Platform,183
-393,Great Cormorant,Phalacrocorax carbo,Platform,145
-133,Great Crested Flycatcher,Myiarchus crinitus,Cavity,33
-134,Great Crested Grebe,Podiceps cristatus,Wild,65
-135,Great Egret,Ardea alba,Platform,130
-394,Great Hornbill,Buceros bicornis,Cavity,160
-136,Great Horned Owl,Bubo virginianus,Platform,112
-395,Great Indian Bustard,Ardeotis nigriceps,Ground,230
-396,Great Spotted Woodpecker,Dendrocopos major,Cavity,41
-137,Great Tit,Parus major,Cavity,24
-397,Greater Adjutant,Leptoptilos dubius,Platform,261
-138,Greater Flamingo,Phoenicopterus roseus,Ground,152
-139,Greater Prairie Chicken,Tympanuchus cupido,Ground,71
-140,Greater Roadrunner,Geococcyx californianus,Platform,56
-398,Green Bee-Eater,Merops orientalis,Wild,29
-141,Green Heron,Butorides virescens,Platform,66
-399,Green Pheasant,Phasianus versicolor,Ground,80
-290,Green Pygmy-Goose,Nettapus pulchellus,Cavity,54
-291,Grey Butcherbird,Cracticus torquatus,Bowl,40
-142,Grey Heron,Ardea cinerea,Platform,185
-292,Grey Shrikethrush,Colluricincla harmonica,Bowl,26
-293,Grey Teal,Anas gracilis,Ground,64
-294,Grey Warbler,Gerygone igata,Wild,16
-295,Grey-Headed Mannikin,Lonchura caniceps,Wild,15
-143,Greylag Goose,Anser anser,Ground,164
-144,Griffon Vulture,Gyps fulvus,Platform,252
-145,Hawfinch,Coccothraustes coccothraustes,Bowl,30
-146,Hermit Thrush,Catharus guttatus,Wild,30
-400,Himalayan Monal,Lophophorus impejanus,Ground,33
-147,Hooded Crow,Corvus cornix,Platform,99
-148,Hooded Merganser,Lophodytes cucullatus,Cavity,61
-149,Hooded Warbler,Setophaga citrina,Bowl,18
-150,Horned Lark,Eremophila alpestris,Ground,30
-296,Horsfield's Bronze-Cuckoo,Chrysococcyx basalis,None,29
-297,Horsfield's Bushlark,Mirafra javanica,Ground,12
-401,House Crow,Corvus splendens,Platform,81
-151,House Finch,Haemorhous mexicanus,Bowl,25
-152,House Sparrow,Passer domesticus,Cavity,22
-153,House Wren,Troglodytes aedon,Cavity,15
-402,Ibisbill,Ibidorhyncha struthersii,Ground,74
-154,Inca Dove,Columbina inca,Platform,28
-403,Indian Peafowl,Pavo cristatus,Ground,145
-404,Indian Vulture,Gyps indicus,Platform,227
-155,Indigo Bunting,Passerina cyanea,Bowl,20
-156,Juniper Titmouse,Baeolophus ridgwayi,Cavity,23
-298,Kākāpō,Strigops habroptila,Ground,*
-299,Kea,Nestor notabilis,Ground,90
-300,Kelp Gull,Larus dominicanus,Ground,135
-301,Kererū,Hemiphaga novaeseelandiae,Platform,75
-157,Killdeer,Charadrius vociferus,Ground,46
-158,King Rail,Rallus elegans,Platform,51
-302,Korimako,Anthornis melanura,Bowl,22
-405,Large-Billed Crow,Corvus macrorhynchos,Platform,115
-303,Laughing Kookaburra,Dacelo novaeguineae,Cavity,60
-159,Lazuli Bunting,Passerina amoena,Bowl,23
-304,Lesser Frigatebird,Fregata ariel,Platform,175
-160,Lesser Whitethroat,Sylvia curruca,Bowl,18
-305,Lewin's Honeyeater,Meliphaga lewinii,Bowl,29
-161,Lincoln's Sparrow,Melospiza lincolnii,Ground,20
-162,Little Bustard,Tetrax tetrax,Ground,110
-406,Little Egret,Egretta garzetta,Platform,95
-407,Little Grebe,Tachybaptus ruficollis,Wild,42
-163,Little Owl,Athene noctua,Cavity,56
-306,Little Penguin,Eudyptula minor,Wild,*
-307,Little Pied Cormorant,Microcarbo melanoleucos,Platform,88
-408,Little Ringed Plover,Charadrius dubius,Ground,45
-164,Loggerhead Shrike,Lanius ludovicianus,Bowl,30
-165,Long-Tailed Tit,Aegithalos caudatus,Wild,18
-308,Magpie-Lark,Grallina cyanoleuca,Bowl,57
-309,Major Mitchell's Cockatoo,Lophochroa leadbeateri,Cavity,81
-166,Mallard,Anas platyrhynchos,Ground,89
-310,Malleefowl,Leipoa ocellata,Ground,33
-409,Mandarin Duck,Aix galericulata,Cavity,71
-311,Maned Duck,Chenonetta jubata,Cavity,79
-312,Many-Colored Fruit Dove,Ptilinopus perousii,Platform,30
-313,Masked Lapwing,Vanellus miles,Ground,80
-167,Mississippi Kite,Ictinia mississippiensis,Platform,79
-314,Mistletoebird,Dicaeum hirundinaceum,Wild,18
-168,Moltoni's Warbler,Sylvia subalpina,Bowl,17
-169,Montagu's Harrier,Circus pygargus,Ground,113
-170,Mountain Bluebird,Sialia currucoides,Cavity,36
-171,Mountain Chickadee,Poecile gambeli,Cavity,23
-172,Mourning Dove,Zenaida macroura,Platform,46
-315,Musk Duck,Biziura lobata,Ground,87
-173,Mute Swan,Cygnus olor,Ground,220
-316,New Holland Honeyeater,Phylidonyris novaehollandiae,Bowl,20
-317,Noisy Miner,Manorina melanocephala,Bowl,41
-318,North Island Brown Kiwi,Apteryx mantelli,Wild,*
-174,Northern Bobwhite,Colinus virginianus,Ground,33
-175,Northern Cardinal,Cardinalis cardinalis,Bowl,30
-176,Northern Flicker,Colaptes auratus,Cavity,51
-177,Northern Gannet,Morus bassanus,Ground,173
-178,Northern Goshawk,Accipiter gentilis,Platform,106
-179,Northern Harrier,Circus cyaneus,Platform,109
-180,Northern Mockingbird,Mimus polyglottos,Bowl,36
-181,Northern Shoveler,Spatula clypeata,Ground,76
-410,Olive-Backed Sunbird,Cinnyris jugularis,Wild,16
-319,Orange-Footed Scrubfowl,Megapodius reinwardt,Ground,43
-411,Oriental Bay-Owl,Phodilus badius,Cavity,71
-412,Oriental Magpie-Robin,Copsychus saularis,Cavity,33
-182,Osprey,Pandion haliaetus,Platform,160
-320,Pacific Black Duck,Anas superciliosa,Cavity,88
-183,Painted Bunting,Passerina ciris,Bowl,23
-184,Painted Whitestart,Myioborus pictus,Ground,22
-185,Parrot Crossbill,Loxia pytyopsittacus,Bowl,30
-321,Peaceful Dove,Geopelia placida,Platform,25
-186,Peregrine Falcon,Falco peregrinus,Platform,104
-322,Pesquet's Parrot,Psittrichas fulgidus,Cavity,30
-323,Pheasant Coucal,Centropus phasianinus,Ground,50
-413,Philippine Eagle,Pithecophaga jefferyi,Platform,193
-187,Pied-Billed Grebe,Podilymbus podiceps,Platform,41
-188,Pileated Woodpecker,Dryocopus pileatus,Cavity,74
-189,Pine Siskin,Spinus pinus,Bowl,23
-324,Pink-Eared Duck,Malacorhynchus membranaceus,Cavity,64
-325,Plains-Wanderer,Pedionomus torquatus,Ground,32
-414,Plumbeous Redstart,Phoenicurus fuliginosus,Bowl,21
-326,Princess Stephanie's Astrapia,Astrapia stephaniae,Platform,45
-190,Prothonotary Warbler,Protonotaria citrea,Cavity,23
-327,Pūkeko,Porphyrio melanotus,Ground,78
-191,Purple Gallinule,Porphyrio martinicus,Platform,56
-415,Purple Heron,Ardea purpurea,Platform,135
-192,Purple Martin,Progne subis,Cavity,46
-193,Pygmy Nuthatch,Sitta pygmaea,Cavity,20
-328,Rainbow Lorikeet,Trichoglossus moluccanus,Cavity,46
-416,Red Avadavat,Amandava amandava,Wild,13
-194,Red Crossbill,Loxia curvirostra,Bowl,28
-417,Red Junglefowl,Gallus gallus,Ground,75
-195,Red Kite,Milvus milvus,Platform,157
-196,Red Knot,Calidris canutus,Ground,50
-329,Red Wattlebird,Anthochaera carunculata,Bowl,49
-330,Red-Backed Fairywren,Malurus melanocephalus,Wild,15
-197,Red-Backed Shrike,Lanius collurio,Bowl,33
-198,Red-Bellied Woodpecker,Melanerpes carolinus,Cavity,41
-199,Red-Breasted Merganser,Mergus serrator,Ground,78
-200,Red-Breasted Nuthatch,Sitta canadensis,Cavity,23
-331,Red-Capped Robin,Petroica goodenovii,Bowl,17
-201,Red-Cockaded Woodpecker,Picoides borealis,Cavity,36
-418,Red-Crowned Crane,Grus japonensis,Ground,235
-202,Red-Eyed Vireo,Vireo olivaceus,Wild,25
-203,Red-Headed Woodpecker,Melanerpes erythrocephalus,Cavity,43
-204,Red-Legged Partridge,Alectoris rufa,Ground,48
-332,Red-Necked Avocet,Recurvirostra novaehollandiae,Ground,75
-205,Red-Shouldered Hawk,Buteo lineatus,Platform,102
-206,Red-Tailed Hawk,Buteo jamaicensis,Platform,124
-419,Red-Vented Bulbul,Pycnonotus cafer,Bowl,28
-420,Red-Wattled Lapwing,Vanellus indicus,Ground,81
-207,Red-Winged Blackbird,Agelaius phoeniceus,Bowl,33
-333,Red-Winged Parrot,Aprosmictus erythropterus,Cavity,49
-334,Regent Bowerbird,Sericulus chrysocephalus,Bowl,36
-421,Rhinoceros Auklet,Cerorhinca monocerata,Ground,62
-208,Ring-Billed Gull,Larus delawarensis,Ground,122
-422,Rock Pigeon,Columba livia,Platform,64
-423,Rook,Corvus frugilegus,Platform,90
-209,Rose-Breasted Grosbeak,Pheucticus ludovicianus,Bowl,33
-424,Rose-Ringed Parakeet,Psittacula krameri,Cavity,45
-210,Roseate Spoonbill,Platalea ajaja,Platform,127
-425,Rosy Starling,Pastor roseus,Cavity,35
-335,Royal Spoonbill,Platalea regia,Platform,120
-211,Ruby-Crowned Kinglet,Regulus calendula,Bowl,20
-212,Ruby-Throated Hummingbird,Archilochus colubris,Bowl,10
-213,Ruddy Duck,Oxyura jamaicensis,Platform,48
-426,Ruddy Shelduck,Tadorna ferruginea,Cavity,123
-214,Ruff,Calidris pugnax,Ground,56
-336,Rufous Night-Heron,Nycticorax caledonicus,Platform,106
-337,Rufous Owl,Ninox rufa,Cavity,115
-338,Rufous-Banded Honeyeater,Conopophila albogularis,Bowl,22
-339,Sacred Kingfisher,Todiramphus sanctus,Cavity,30
-215,Sandhill Crane,Antigone canadensis,Ground,196
-427,Sarus Crane,Antigone antigone,Ground,250
-428,Satyr Tragopan,Tragopan satyra,Platform,26
-216,Savannah Sparrow,Passerculus sandwichensis,Ground,18
-217,Savi's Warbler,Locustella luscinioides,Bowl,20
-218,Say's Phoebe,Sayornis saya,Bowl,33
-219,Scaled Quail,Callipepla squamata,Ground,36
-429,Scaly-Breasted Munia,Lonchura punctulata,Wild,22
-220,Scissor-Tailed Flycatcher,Tyrannus forficatus,Bowl,38
-221,Short-Toed Treecreeper,Certhia brachydactyla,Cavity,20
-340,Silvereye,Zosterops lateralis,Bowl,17
-430,Small Minivet,Pericrocotus cinnamomeus,Bowl,28
-431,Smew,Mergellus albellus,Cavity,62
-222,Snow Bunting,Plectrophenax nivalis,Cavity,35
-223,Snowy Egret,Egretta thula,Platform,104
-224,Snowy Owl,Bubo scandiacus,Ground,138
-225,Song Sparrow,Melospiza melodia,Bowl,20
-341,South Island Robin,Petroica australis,Bowl,24
-342,Southern Cassowary,Casuarius casuarius,Ground,*
-343,Spangled Drongo,Dicrurus bracteatus,Bowl,27
-344,Splendid Fairywren,Malurus splendens,Wild,15
-432,Spoon-Billed Sandpiper,Calidris pygmaea,Ground,35
-345,Spotless Crake,Zapornia tabuensis,Ground,28
-433,Spotted Dove,Streptopelia chinensis,Platform,45
-226,Spotted Owl,Strix occidentalis,Cavity,102
-227,Spotted Sandpiper,Actitis macularius,Ground,38
-228,Spotted Towhee,Pipilo maculatus,Ground,28
-229,Sprague's Pipit,Anthus spragueii,Ground,25
-230,Squacco Heron,Ardeola ralloides,Platform,86
-434,Sri Lanka Blue-Magpie,Urocissa ornata,Bowl,74
-435,Sri Lanka Frogmouth,Batrachostomus moniliger,Bowl,36
-231,Steller's Jay,Cyanocitta stelleri,Bowl,48
-436,Stork-Billed Kingfisher,Pelargopsis capensis,Cavity,56
-346,Stubble Quail,Coturnix pectoralis,Ground,29
-347,Sulphur-Crested Cockatoo,Cacatua galerita,Cavity,103
-348,Superb Lyrebird,Menura novaehollandiae,Wild,73
-232,Swainson's Hawk,Buteo swainsoni,Platform,130
-349,Tawny Frogmouth,Podargus strigoides,Platform,82
-233,Thekla's Lark,Galerida theklae,Ground,34
-234,Tree Swallow,Tachycineta bicolor,Cavity,38
-437,Trumpeter Finch,Bucanetes githagineus,Ground,24
-235,Trumpeter Swan,Cygnus buccinator,Ground,203
-236,Tufted Titmouse,Baeolophus bicolor,Cavity,25
-350,Tūī,Prosthemadera novaeseelandiae,Bowl,42
-237,Turkey Vulture,Cathartes aura,Cavity,170
-438,Twite,Linaria flavirostris,Bowl,23
-238,Vaux's Swift,Chaetura vauxi,Cavity,31
-439,Verditer Flycatcher,Eumyias thalassinus,Cavity,26
-440,Violet Cuckoo,Chrysococcyx xanthorhynchus,None,27
-239,Violet-Green Swallow,Tachycineta thalassina,Cavity,36
-351,Wedge-Tailed Eagle,Aquila audax,Platform,207
-352,Welcome Swallow,Hirundo neoxena,Wild,28
-240,Western Meadowlark,Sturnella neglecta,Ground,38
-241,Western Tanager,Piranga ludoviciana,Bowl,30
-242,White Stork,Ciconia ciconia,Platform,160
-243,White Wagtail,Motacilla alba,Bowl,28
-244,White-Backed Woodpecker,Dendrocopos leucotos,Cavity,39
-353,White-Bellied Sea-Eagle,Haliaeetus leucogaster,Platform,200
-245,White-Breasted Nuthatch,Sitta carolinensis,Cavity,28
-354,White-Breasted Woodswallow,Artamus leucoryn,Bowl,32
-441,White-Browed Tit-Warbler,Leptopoecile sophiae,Wild,12
-442,White-Crested Laughingthrush,Garrulax leucolophus,Bowl,35
-246,White-Crowned Sparrow,Zonotrichia leucophrys,Ground,25
-355,White-Faced Heron,Egretta novaehollandiae,Platform,106
-247,White-Faced Ibis,Plegadis chihi,Platform,91
-443,White-Headed Duck,Oxyura leucocephala,Ground,66
-248,White-Throated Dipper,Cinclus cinclus,Cavity,28
-444,White-Throated Kingfisher,Halcyon smyrnensis,Cavity,42
-249,White-Throated Swift,Aeronautes saxatalis,Cavity,38
-250,Whooping Crane,Grus americana,Ground,221
-251,Wild Turkey,Meleagris gallopavo,Ground,135
-252,Willet,Tringa semipalmata,Ground,66
-356,Willie-Wagtail,Rhipidura leucophrys,Bowl,30
-445,Willow Tit,Poecile montanus,Cavity,20
-253,Wilson's Snipe,Gallinago delicata,Ground,41
-254,Wilson's Storm Petrel,Oceanites oceanicus,Wild,38
-255,Wood Duck,Aix sponsa,Cavity,76
-256,Wood Stork,Mycteria americana,Platform,155
-357,Wrybill,Anarhynchus frontalis,Ground,49
-446,Yellow Bittern,Ixobrychus sinensis,Platform,49
-257,Yellow-Bellied Sapsucker,Sphyrapicus varius,Cavity,41
-258,Yellow-Billed Cuckoo,Coccyzus americanus,Platform,46
-259,Yellow-Breasted Chat,Icteria virens,Bowl,25
-260,Yellow-Headed Blackbird,Xanthocephalus xanthocephalus,Bowl,38
-261,Yellow-Rumped Warbler,Setophaga coronata,Bowl,23
-262,Yellowhammer,Emberiza citrinella,Ground,26
-447,Zebra Dove,Geopelia striata,Platform,25
+id,common_name,scientific_name,nest_type,wingspan,habitat_forest,habitat_grassland,habitat_wetland
+263,Abbott's Booby,Papasula abbotti,Platform,190,FALSE,FALSE,TRUE
+2,Acorn Woodpecker,Melanerpes formicivorus,Cavity,46,TRUE,FALSE,FALSE
+3,American Avocet,Recurvirostra americana,Ground,79,FALSE,FALSE,TRUE
+4,American Bittern,Botaurus lentiginosus,Platform,107,FALSE,FALSE,TRUE
+5,American Coot,Fulica americana,Platform,61,FALSE,FALSE,TRUE
+6,American Crow,Corvus brachyrhynchos,Platform,99,TRUE,TRUE,TRUE
+7,American Goldfinch,Spinus tristis,Bowl,23,FALSE,TRUE,FALSE
+8,American Kestrel,Falco sparverius,Cavity,56,FALSE,TRUE,FALSE
+9,American Oystercatcher,Haematopus palliatus,Ground,81,FALSE,FALSE,TRUE
+10,American Redstart,Setophaga ruticilla,Bowl,20,TRUE,FALSE,FALSE
+11,American Robin,Turdus migratorius,Bowl,43,TRUE,TRUE,FALSE
+12,American White Pelican,Pelecanus erythrorhynchos,Ground,274,FALSE,FALSE,TRUE
+13,American Woodcock,Scolopax minor,Ground,46,TRUE,TRUE,FALSE
+14,Anhinga,Anhinga anhinga,Platform,114,FALSE,FALSE,TRUE
+15,Anna's Hummingbird,Calypte anna,Bowl,13,TRUE,TRUE,TRUE
+16,Ash-Throated Flycatcher,Myiarchus cinerascens,Cavity,30,FALSE,TRUE,FALSE
+358,Asian Emerald Dove,Chalcophaps indica,Platform,44,TRUE,TRUE,FALSE
+359,Asian Koel,Eudynamys scolopaceus,None,62,TRUE,TRUE,TRUE
+17,Atlantic Puffin,Fratercula arctica,Wild,53,FALSE,FALSE,TRUE
+18,Audouin's Gull,Ichthyaetus audouinii,Ground,132,FALSE,FALSE,TRUE
+264,Australasian Pipit,Anthus novaeseelandiae,Ground,31,FALSE,TRUE,FALSE
+265,Australasian Shoveler,Spatula rhynchotis,Ground,75,FALSE,FALSE,TRUE
+266,Australian Ibis,Threskiornis moluccus,Platform,118,FALSE,TRUE,TRUE
+267,Australian Magpie,Gymnorhina tibicen,Platform,75,FALSE,TRUE,FALSE
+268,Australian Owlet-Nightjar,Aegotheles cristatus,Cavity,28,TRUE,TRUE,TRUE
+269,Australian Raven,Corvus coronoides,Platform,100,TRUE,TRUE,TRUE
+270,Australian Reed Warbler,Acrocephalus australis,Bowl,21,FALSE,FALSE,TRUE
+271,Australian Shelduck,Tadorna tadornoides,Cavity,113,FALSE,FALSE,TRUE
+272,Australian Zebra Finch,Taeniopygia castanotis,Wild,22,FALSE,TRUE,FALSE
+360,Azure Tit,Cyanistes cyanus,Cavity,22,TRUE,FALSE,FALSE
+19,Baird's Sparrow,Ammodramus bairdii,Ground,23,FALSE,TRUE,FALSE
+20,Bald Eagle,Haliaeetus leucocephalus,Platform,203,FALSE,FALSE,TRUE
+21,Baltimore Oriole,Icterus galbula,Wild,30,TRUE,FALSE,FALSE
+22,Barn Owl,Tyto alba,Cavity,107,TRUE,TRUE,TRUE
+23,Barn Swallow,Hirundo rustica,Wild,38,FALSE,TRUE,TRUE
+24,Barred Owl,Strix varia,Cavity,107,TRUE,FALSE,FALSE
+25,Barrow's Goldeneye,Bucephala islandica,Cavity,71,FALSE,FALSE,TRUE
+361,Baya Weaver,Ploceus philippinus,Wild,27,FALSE,TRUE,TRUE
+362,Bearded Reedling,Panurus biarmicus,Bowl,17,FALSE,FALSE,TRUE
+26,Bell's Vireo,Vireo bellii,Wild,18,TRUE,TRUE,FALSE
+27,Belted Kingfisher,Megaceryle alcyon,Wild,53,FALSE,FALSE,TRUE
+28,Bewick's Wren,Thryomanes bewickii,Cavity,18,TRUE,TRUE,TRUE
+363,Black Drongo,Dicrurus macrocercus,Bowl,27,FALSE,TRUE,FALSE
+273,Black Noddy,Anous minutus,Platform,69,FALSE,FALSE,TRUE
+29,Black Redstart,Phoenicurus ochruros,Wild,24,FALSE,TRUE,FALSE
+30,Black Skimmer,Rynchops niger,Ground,112,FALSE,FALSE,TRUE
+364,Black Stork,Ciconia nigra,Platform,155,TRUE,FALSE,TRUE
+274,Black Swan,Cygnus atratus,Ground,180,FALSE,FALSE,TRUE
+31,Black Tern,Chlidonias niger,Wild,61,FALSE,FALSE,TRUE
+32,Black Vulture,Coragyps atratus,Cavity,150,TRUE,FALSE,FALSE
+33,Black Woodpecker,Dryocopus martius,Cavity,70,TRUE,FALSE,FALSE
+34,Black-Bellied Whistling Duck,Dendrocygna autumnalis,Cavity,76,FALSE,FALSE,TRUE
+35,Black-Billed Magpie,Pica hudsonia,Wild,64,FALSE,TRUE,FALSE
+36,Black-Chinned Hummingbird,Archilochus alexandri,Bowl,8,TRUE,TRUE,TRUE
+37,Black-Crowned Night-Heron,Nycticorax nycticorax,Platform,112,FALSE,FALSE,TRUE
+38,Black-Headed Gull,Chroicocephalus ridibundus,Ground,102,FALSE,FALSE,TRUE
+365,Black-Naped Oriole,Oriolus chinensis,Bowl,50,TRUE,TRUE,FALSE
+39,Black-Necked Stilt,Himantopus mexicanus,Ground,74,FALSE,FALSE,TRUE
+275,Black-Shouldered Kite,Elanus axillaris,Platform,87,FALSE,TRUE,FALSE
+40,Black-Tailed Godwit,Limosa limosa,Ground,76,FALSE,FALSE,TRUE
+41,Black-Throated Diver,Gavia arctica,Ground,120,FALSE,FALSE,TRUE
+42,Blue Grosbeak,Passerina caerulea,Bowl,28,TRUE,TRUE,TRUE
+43,Blue Jay,Cyanocitta cristata,Bowl,41,TRUE,FALSE,FALSE
+366,Blue Rock-Thrush,Monticola solitarius,Cavity,35,TRUE,TRUE,TRUE
+44,Blue-Gray Gnatcatcher,Polioptila caerulea,Bowl,15,TRUE,FALSE,FALSE
+45,Blue-Winged Warbler,Vermivora cyanoptera,Bowl,20,TRUE,TRUE,FALSE
+46,Bluethroat,Luscinia svecica,Ground,22,FALSE,TRUE,TRUE
+276,Blyth's Hornbill,Rhyticeros plicatus,Cavity,150,TRUE,FALSE,FALSE
+47,Bobolink,Dolichonyx oryzivorus,Ground,30,FALSE,TRUE,FALSE
+48,Bonelli's Eagle,Aquila fasciata,Platform,160,TRUE,TRUE,TRUE
+367,Brahminy Kite,Haliastur indus,Platform,125,FALSE,FALSE,TRUE
+368,Brambling,Fringilla montifringilla,Bowl,26,TRUE,FALSE,FALSE
+49,Brant,Branta bernicla,Ground,114,FALSE,FALSE,TRUE
+50,Brewer's Blackbird,Euphagus cyanocephalus,Bowl,41,FALSE,TRUE,FALSE
+51,Broad-Winged Hawk,Buteo platypterus,Platform,85,TRUE,FALSE,FALSE
+277,Brolga,Antigone rubicunda,Ground,215,FALSE,FALSE,TRUE
+52,Bronzed Cowbird,Molothrus aeneus,None,36,FALSE,TRUE,FALSE
+278,Brown Falcon,Falco berigora,Platform,102,TRUE,TRUE,TRUE
+53,Brown Pelican,Pelecanus occidentalis,Platform,201,FALSE,FALSE,TRUE
+369,Brown Shrike,Lanius cristatus,Bowl,24,FALSE,TRUE,FALSE
+54,Brown-Headed Cowbird,Molothrus ater,None,30,FALSE,TRUE,FALSE
+279,Budgerigar,Melopsittacus undulatus,Cavity,30,TRUE,TRUE,TRUE
+55,Bullfinch,Pyrrhula pyrrhula,Bowl,24,TRUE,FALSE,FALSE
+56,Burrowing Owl,Athene cunicularia,Wild,53,FALSE,TRUE,FALSE
+57,Bushtit,Psaltriparus minimus,Wild,15,TRUE,TRUE,TRUE
+58,California Condor,Gymnogyps californianus,Ground,277,TRUE,TRUE,TRUE
+59,California Quail,Callipepla californica,Ground,36,TRUE,TRUE,FALSE
+60,Canada Goose,Branta canadensis,Ground,132,FALSE,TRUE,TRUE
+61,Canvasback,Aythya valisineria,Wild,82,FALSE,FALSE,TRUE
+62,Carolina Chickadee,Poecile carolinensis,Cavity,20,TRUE,FALSE,FALSE
+63,Carolina Wren,Thryothorus ludovicianus,Cavity,20,TRUE,FALSE,FALSE
+64,Carrion Crow,Corvus corone,Platform,92,FALSE,TRUE,TRUE
+65,Cassin's Finch,Haemorhous cassinii,Bowl,30,TRUE,FALSE,FALSE
+66,Cassin's Sparrow,Peucaea cassinii,Ground,20,FALSE,TRUE,FALSE
+67,Cedar Waxwing,Bombycilla cedrorum,Bowl,25,TRUE,TRUE,FALSE
+68,Cerulean Warbler,Setophaga cerulea,Bowl,20,TRUE,FALSE,FALSE
+69,Cetti's Warbler,Cettia cetti,Bowl,17,FALSE,FALSE,TRUE
+70,Chestnut-Collared Longspur,Calcarius ornatus,Ground,25,FALSE,TRUE,FALSE
+71,Chihuahuan Raven,Corvus cryptoleucus,Platform,112,FALSE,TRUE,FALSE
+72,Chimney Swift,Chaetura pelagica,Wild,36,TRUE,TRUE,TRUE
+73,Chipping Sparrow,Spizella passerina,Bowl,23,TRUE,TRUE,FALSE
+74,Clark's Grebe,Aechmophorus clarkii,Wild,61,FALSE,FALSE,TRUE
+75,Clark's Nutcracker,Nucifraga columbiana,Platform,61,TRUE,FALSE,FALSE
+76,Coal Tit,Periparus ater,Cavity,16,TRUE,FALSE,FALSE
+280,Cockatiel,Nymphicus hollandicus,Cavity,32,TRUE,TRUE,TRUE
+77,Common Blackbird,Turdus merula,Bowl,36,TRUE,FALSE,FALSE
+78,Common Buzzard,Buteo buteo,Platform,123,TRUE,TRUE,TRUE
+79,Common Chaffinch,Fringilla coelebs,Bowl,23,TRUE,TRUE,FALSE
+80,Common Chiffchaff,Phylloscopus collybita,Ground,20,TRUE,FALSE,TRUE
+81,Common Cuckoo,Cuculus canorus,None,57,TRUE,TRUE,FALSE
+82,Common Goldeneye,Bucephala clangula,Cavity,73,TRUE,FALSE,TRUE
+83,Common Grackle,Quiscalus quiscula,Bowl,43,TRUE,TRUE,TRUE
+370,Common Green Magpie,Cissa chinensis,Bowl,62,TRUE,FALSE,FALSE
+371,Common Iora,Aegithina tiphia,Bowl,21,TRUE,TRUE,FALSE
+84,Common Kingfisher,Alcedo atthis,Wild,26,FALSE,FALSE,TRUE
+85,Common Little Bittern,Ixobrychus minutus,Platform,49,FALSE,FALSE,TRUE
+86,Common Loon,Gavia immer,Ground,117,FALSE,FALSE,TRUE
+87,Common Merganser,Mergus merganser,Cavity,86,FALSE,FALSE,TRUE
+88,Common Moorhen,Gallinula chloropus,Wild,53,FALSE,FALSE,TRUE
+372,Common Myna,Acridotheres tristis,Cavity,35,FALSE,TRUE,FALSE
+89,Common Nighthawk,Chordeiles minor,Ground,56,TRUE,TRUE,TRUE
+90,Common Nightingale,Luscinia megarhynchos,Bowl,23,TRUE,TRUE,TRUE
+91,Common Raven,Corvus corax,Platform,135,TRUE,TRUE,TRUE
+373,Common Sandpiper,Actitis hypoleucos,Ground,40,FALSE,FALSE,TRUE
+92,Common Starling,Sturnus vulgaris,Cavity,38,FALSE,TRUE,TRUE
+93,Common Swift,Apus apus,Cavity,46,FALSE,TRUE,FALSE
+374,Common Tailorbird,Orthotomus sutorius,Wild,13,TRUE,TRUE,FALSE
+375,Common Teal,Anas crecca,Ground,61,FALSE,FALSE,TRUE
+94,Common Yellowthroat,Geothlypis trichas,Bowl,18,FALSE,FALSE,TRUE
+95,Cooper's Hawk,Accipiter cooperii,Platform,79,TRUE,FALSE,FALSE
+376,Coppersmith Barbet,Psilopogon haemacephalus,Cavity,23,TRUE,FALSE,FALSE
+96,Corsican Nuthatch,Sitta whiteheadi,Cavity,21,TRUE,FALSE,FALSE
+281,Count Raggi's Bird-of-Paradise,Paradisaea raggiana,Bowl,22,TRUE,FALSE,FALSE
+377,Crested Ibis,Nipponia nippon,Platform,140,FALSE,FALSE,TRUE
+378,Crested Lark,Galerida cristata,Ground,34,FALSE,TRUE,FALSE
+282,Crested Pigeon,Ocyphaps lophotes,Platform,45,FALSE,TRUE,FALSE
+283,Crimson Chat,Epthianura tricolor,Bowl,19,FALSE,TRUE,FALSE
+97,Dark-Eyed Junco,Junco hyemalis,Ground,23,TRUE,TRUE,FALSE
+379,Desert Finch,Rhodospiza obsoleta,Bowl,26,FALSE,TRUE,FALSE
+380,Desert Wheatear,Oenanthe deserti,Ground,27,FALSE,TRUE,FALSE
+98,Dickcissel,Spiza americana,Ground,25,FALSE,TRUE,FALSE
+99,Double-Crested Cormorant,Phalacrocorax auritus,Platform,132,FALSE,FALSE,TRUE
+100,Downy Woodpecker,Picoides pubescens,Cavity,30,TRUE,FALSE,FALSE
+101,Dunnock,Prunella modularis,Bowl,20,TRUE,FALSE,FALSE
+102,Eastern Bluebird,Sialia sialis,Cavity,33,FALSE,TRUE,FALSE
+103,Eastern Imperial Eagle,Aquila heliaca,Platform,200,FALSE,TRUE,FALSE
+104,Eastern Kingbird,Tyrannus tyrannus,Bowl,38,TRUE,TRUE,TRUE
+105,Eastern Phoebe,Sayornis phoebe,Wild,28,TRUE,TRUE,TRUE
+284,Eastern Rosella,Platycercus eximius,Cavity,48,TRUE,TRUE,FALSE
+106,Eastern Screech Owl,Megascops asio,Cavity,51,TRUE,FALSE,FALSE
+285,Eastern Whipbird,Psophodes olivaceus,Bowl,30,TRUE,FALSE,FALSE
+107,Eleonora's Falcon,Falco eleonorae,Ground,95,FALSE,FALSE,TRUE
+286,Emu,Dromaius novaehollandiae,Ground,*,TRUE,TRUE,TRUE
+108,Eurasian Collared-Dove,Streptopelia decaocto,Platform,52,FALSE,TRUE,FALSE
+381,Eurasian Coot,Fulica atra,Ground,75,FALSE,FALSE,TRUE
+382,Eurasian Eagle-Owl,Bubo bubo,Platform,174,TRUE,TRUE,FALSE
+109,Eurasian Golden Oriole,Oriolus oriolus,Wild,46,TRUE,TRUE,FALSE
+110,Eurasian Green Woodpecker,Picus viridis,Cavity,48,TRUE,TRUE,FALSE
+111,Eurasian Hobby,Falco subbuteo,Platform,75,TRUE,TRUE,TRUE
+383,Eurasian Hoopoe,Upupa epops,Cavity,46,FALSE,TRUE,FALSE
+112,Eurasian Jay,Garrulus glandarius,Bowl,56,TRUE,FALSE,FALSE
+384,Eurasian Kestrel,Falco tinnunculus,Cavity,68,TRUE,TRUE,TRUE
+113,Eurasian Magpie,Pica pica,Platform,56,FALSE,TRUE,FALSE
+385,Eurasian Marsh-Harrier,Circus aeruginosus,Platform,130,FALSE,FALSE,TRUE
+114,Eurasian Nutcracker,Nucifraga caryocatactes,Bowl,55,TRUE,FALSE,FALSE
+115,Eurasian Nuthatch,Sitta europaea,Cavity,25,TRUE,FALSE,FALSE
+116,Eurasian Sparrowhawk,Accipiter nisus,Platform,65,TRUE,FALSE,FALSE
+117,Eurasian Tree Sparrow,Passer montanus,Cavity,21,TRUE,TRUE,FALSE
+386,Eurasian Treecreeper,Certhia familiaris,Bowl,20,TRUE,FALSE,FALSE
+118,European Bee-Eater,Merops apiaster,Cavity,38,FALSE,TRUE,FALSE
+119,European Goldfinch,Carduelis carduelis,Bowl,23,TRUE,TRUE,FALSE
+120,European Honey Buzzard,Pernis apivorus,Platform,134,TRUE,FALSE,FALSE
+121,European Robin,Erithacus rubecula,Bowl,22,TRUE,FALSE,FALSE
+122,European Roller,Coracias garrulus,Cavity,70,FALSE,TRUE,FALSE
+123,European Turtle Dove,Streptopelia turtur,Platform,51,TRUE,TRUE,TRUE
+124,Ferruginous Hawk,Buteo regalis,Platform,142,FALSE,TRUE,FALSE
+387,Fire-Fronted Serin,Serinus pusillus,Bowl,21,TRUE,TRUE,FALSE
+125,Fish Crow,Corvus ossifragus,Platform,91,TRUE,TRUE,TRUE
+388,Forest Owlet,Athene blewitti,Cavity,56,TRUE,FALSE,FALSE
+126,Forster's Tern,Sterna forsteri,Wild,79,FALSE,FALSE,TRUE
+127,Franklin's Gull,Leucophaeus pipixcan,Wild,91,FALSE,TRUE,TRUE
+287,Galah,Eolophus roseicapilla,Cavity,75,TRUE,TRUE,FALSE
+128,Goldcrest,Regulus regulus,Bowl,15,TRUE,FALSE,FALSE
+129,Golden Eagle,Aquila chrysaetos,Platform,201,FALSE,TRUE,TRUE
+389,Golden Pheasant,Chrysolophus pictus,Ground,70,TRUE,TRUE,FALSE
+288,Golden-Headed Cisticola,Cisticola exilis,Wild,15,FALSE,TRUE,FALSE
+289,Gould's Finch,Erythrura gouldiae,Cavity,14,TRUE,TRUE,TRUE
+390,Graceful Prinia,Prinia gracilis,Wild,13,FALSE,TRUE,TRUE
+391,Grandala,Grandala coelicolor,Bowl,36,FALSE,TRUE,FALSE
+130,Grasshopper Sparrow,Ammodramus savannarum,Ground,20,FALSE,TRUE,FALSE
+131,Gray Catbird,Dumetella carolinensis,Bowl,28,TRUE,TRUE,TRUE
+392,Gray Wagtail,Motacilla cinerea,Bowl,26,TRUE,TRUE,TRUE
+132,Great Blue Heron,Ardea herodias,Platform,183,FALSE,FALSE,TRUE
+393,Great Cormorant,Phalacrocorax carbo,Platform,145,FALSE,FALSE,TRUE
+133,Great Crested Flycatcher,Myiarchus crinitus,Cavity,33,TRUE,FALSE,FALSE
+134,Great Crested Grebe,Podiceps cristatus,Wild,65,FALSE,FALSE,TRUE
+135,Great Egret,Ardea alba,Platform,130,FALSE,FALSE,TRUE
+394,Great Hornbill,Buceros bicornis,Cavity,160,TRUE,FALSE,FALSE
+136,Great Horned Owl,Bubo virginianus,Platform,112,TRUE,FALSE,FALSE
+395,Great Indian Bustard,Ardeotis nigriceps,Ground,230,FALSE,TRUE,FALSE
+396,Great Spotted Woodpecker,Dendrocopos major,Cavity,41,TRUE,FALSE,FALSE
+137,Great Tit,Parus major,Cavity,24,TRUE,FALSE,FALSE
+397,Greater Adjutant,Leptoptilos dubius,Platform,261,FALSE,FALSE,TRUE
+138,Greater Flamingo,Phoenicopterus roseus,Ground,152,FALSE,FALSE,TRUE
+139,Greater Prairie Chicken,Tympanuchus cupido,Ground,71,FALSE,TRUE,FALSE
+140,Greater Roadrunner,Geococcyx californianus,Platform,56,FALSE,TRUE,FALSE
+398,Green Bee-Eater,Merops orientalis,Wild,29,TRUE,TRUE,FALSE
+141,Green Heron,Butorides virescens,Platform,66,FALSE,FALSE,TRUE
+399,Green Pheasant,Phasianus versicolor,Ground,80,FALSE,TRUE,TRUE
+290,Green Pygmy-Goose,Nettapus pulchellus,Cavity,54,FALSE,FALSE,TRUE
+291,Grey Butcherbird,Cracticus torquatus,Bowl,40,TRUE,TRUE,TRUE
+142,Grey Heron,Ardea cinerea,Platform,185,FALSE,FALSE,TRUE
+292,Grey Shrikethrush,Colluricincla harmonica,Bowl,26,TRUE,FALSE,FALSE
+293,Grey Teal,Anas gracilis,Ground,64,FALSE,FALSE,TRUE
+294,Grey Warbler,Gerygone igata,Wild,16,TRUE,FALSE,FALSE
+295,Grey-Headed Mannikin,Lonchura caniceps,Wild,15,FALSE,TRUE,FALSE
+143,Greylag Goose,Anser anser,Ground,164,FALSE,FALSE,TRUE
+144,Griffon Vulture,Gyps fulvus,Platform,252,FALSE,TRUE,FALSE
+145,Hawfinch,Coccothraustes coccothraustes,Bowl,30,TRUE,FALSE,FALSE
+146,Hermit Thrush,Catharus guttatus,Wild,30,TRUE,FALSE,FALSE
+400,Himalayan Monal,Lophophorus impejanus,Ground,33,TRUE,TRUE,FALSE
+147,Hooded Crow,Corvus cornix,Platform,99,FALSE,TRUE,TRUE
+148,Hooded Merganser,Lophodytes cucullatus,Cavity,61,FALSE,FALSE,TRUE
+149,Hooded Warbler,Setophaga citrina,Bowl,18,TRUE,FALSE,FALSE
+150,Horned Lark,Eremophila alpestris,Ground,30,FALSE,TRUE,FALSE
+296,Horsfield's Bronze-Cuckoo,Chrysococcyx basalis,None,29,TRUE,TRUE,TRUE
+297,Horsfield's Bushlark,Mirafra javanica,Ground,12,FALSE,TRUE,FALSE
+401,House Crow,Corvus splendens,Platform,81,TRUE,TRUE,TRUE
+151,House Finch,Haemorhous mexicanus,Bowl,25,TRUE,TRUE,TRUE
+152,House Sparrow,Passer domesticus,Cavity,22,FALSE,TRUE,FALSE
+153,House Wren,Troglodytes aedon,Cavity,15,TRUE,TRUE,FALSE
+402,Ibisbill,Ibidorhyncha struthersii,Ground,74,FALSE,FALSE,TRUE
+154,Inca Dove,Columbina inca,Platform,28,FALSE,TRUE,FALSE
+403,Indian Peafowl,Pavo cristatus,Ground,145,TRUE,TRUE,TRUE
+404,Indian Vulture,Gyps indicus,Platform,227,FALSE,TRUE,FALSE
+155,Indigo Bunting,Passerina cyanea,Bowl,20,TRUE,TRUE,FALSE
+156,Juniper Titmouse,Baeolophus ridgwayi,Cavity,23,TRUE,FALSE,FALSE
+298,Kākāpō,Strigops habroptila,Ground,*,TRUE,FALSE,FALSE
+299,Kea,Nestor notabilis,Ground,90,TRUE,TRUE,FALSE
+300,Kelp Gull,Larus dominicanus,Ground,135,FALSE,FALSE,TRUE
+301,Kererū,Hemiphaga novaeseelandiae,Platform,75,TRUE,FALSE,FALSE
+157,Killdeer,Charadrius vociferus,Ground,46,FALSE,TRUE,TRUE
+158,King Rail,Rallus elegans,Platform,51,FALSE,FALSE,TRUE
+302,Korimako,Anthornis melanura,Bowl,22,TRUE,FALSE,FALSE
+405,Large-Billed Crow,Corvus macrorhynchos,Platform,115,TRUE,TRUE,TRUE
+303,Laughing Kookaburra,Dacelo novaeguineae,Cavity,60,TRUE,TRUE,TRUE
+159,Lazuli Bunting,Passerina amoena,Bowl,23,FALSE,TRUE,FALSE
+304,Lesser Frigatebird,Fregata ariel,Platform,175,FALSE,FALSE,TRUE
+160,Lesser Whitethroat,Sylvia curruca,Bowl,18,TRUE,TRUE,FALSE
+305,Lewin's Honeyeater,Meliphaga lewinii,Bowl,29,TRUE,FALSE,FALSE
+161,Lincoln's Sparrow,Melospiza lincolnii,Ground,20,TRUE,TRUE,TRUE
+162,Little Bustard,Tetrax tetrax,Ground,110,FALSE,TRUE,FALSE
+406,Little Egret,Egretta garzetta,Platform,95,FALSE,FALSE,TRUE
+407,Little Grebe,Tachybaptus ruficollis,Wild,42,FALSE,FALSE,TRUE
+163,Little Owl,Athene noctua,Cavity,56,TRUE,TRUE,FALSE
+306,Little Penguin,Eudyptula minor,Wild,*,FALSE,FALSE,TRUE
+307,Little Pied Cormorant,Microcarbo melanoleucos,Platform,88,FALSE,FALSE,TRUE
+408,Little Ringed Plover,Charadrius dubius,Ground,45,FALSE,FALSE,TRUE
+164,Loggerhead Shrike,Lanius ludovicianus,Bowl,30,FALSE,TRUE,TRUE
+165,Long-Tailed Tit,Aegithalos caudatus,Wild,18,TRUE,FALSE,FALSE
+308,Magpie-Lark,Grallina cyanoleuca,Bowl,57,FALSE,TRUE,FALSE
+309,Major Mitchell's Cockatoo,Lophochroa leadbeateri,Cavity,81,TRUE,TRUE,FALSE
+166,Mallard,Anas platyrhynchos,Ground,89,FALSE,FALSE,TRUE
+310,Malleefowl,Leipoa ocellata,Ground,33,TRUE,TRUE,FALSE
+409,Mandarin Duck,Aix galericulata,Cavity,71,FALSE,TRUE,TRUE
+311,Maned Duck,Chenonetta jubata,Cavity,79,FALSE,FALSE,TRUE
+312,Many-Colored Fruit Dove,Ptilinopus perousii,Platform,30,TRUE,FALSE,FALSE
+313,Masked Lapwing,Vanellus miles,Ground,80,FALSE,TRUE,TRUE
+167,Mississippi Kite,Ictinia mississippiensis,Platform,79,TRUE,TRUE,FALSE
+314,Mistletoebird,Dicaeum hirundinaceum,Wild,18,TRUE,FALSE,FALSE
+168,Moltoni's Warbler,Sylvia subalpina,Bowl,17,FALSE,TRUE,FALSE
+169,Montagu's Harrier,Circus pygargus,Ground,113,FALSE,TRUE,FALSE
+170,Mountain Bluebird,Sialia currucoides,Cavity,36,FALSE,TRUE,FALSE
+171,Mountain Chickadee,Poecile gambeli,Cavity,23,TRUE,FALSE,FALSE
+172,Mourning Dove,Zenaida macroura,Platform,46,TRUE,TRUE,TRUE
+315,Musk Duck,Biziura lobata,Ground,87,FALSE,FALSE,TRUE
+173,Mute Swan,Cygnus olor,Ground,220,FALSE,FALSE,TRUE
+316,New Holland Honeyeater,Phylidonyris novaehollandiae,Bowl,20,FALSE,TRUE,FALSE
+317,Noisy Miner,Manorina melanocephala,Bowl,41,TRUE,TRUE,FALSE
+318,North Island Brown Kiwi,Apteryx mantelli,Wild,*,TRUE,TRUE,FALSE
+174,Northern Bobwhite,Colinus virginianus,Ground,33,FALSE,TRUE,FALSE
+175,Northern Cardinal,Cardinalis cardinalis,Bowl,30,TRUE,FALSE,FALSE
+176,Northern Flicker,Colaptes auratus,Cavity,51,TRUE,TRUE,FALSE
+177,Northern Gannet,Morus bassanus,Ground,173,FALSE,FALSE,TRUE
+178,Northern Goshawk,Accipiter gentilis,Platform,106,TRUE,FALSE,FALSE
+179,Northern Harrier,Circus cyaneus,Platform,109,FALSE,TRUE,TRUE
+180,Northern Mockingbird,Mimus polyglottos,Bowl,36,TRUE,TRUE,TRUE
+181,Northern Shoveler,Spatula clypeata,Ground,76,FALSE,FALSE,TRUE
+410,Olive-Backed Sunbird,Cinnyris jugularis,Wild,16,TRUE,TRUE,FALSE
+319,Orange-Footed Scrubfowl,Megapodius reinwardt,Ground,43,TRUE,FALSE,FALSE
+411,Oriental Bay-Owl,Phodilus badius,Cavity,71,TRUE,FALSE,FALSE
+412,Oriental Magpie-Robin,Copsychus saularis,Cavity,33,TRUE,TRUE,FALSE
+182,Osprey,Pandion haliaetus,Platform,160,FALSE,FALSE,TRUE
+320,Pacific Black Duck,Anas superciliosa,Cavity,88,FALSE,FALSE,TRUE
+183,Painted Bunting,Passerina ciris,Bowl,23,FALSE,TRUE,FALSE
+184,Painted Whitestart,Myioborus pictus,Ground,22,TRUE,FALSE,FALSE
+185,Parrot Crossbill,Loxia pytyopsittacus,Bowl,30,TRUE,FALSE,FALSE
+321,Peaceful Dove,Geopelia placida,Platform,25,TRUE,TRUE,FALSE
+186,Peregrine Falcon,Falco peregrinus,Platform,104,FALSE,TRUE,TRUE
+322,Pesquet's Parrot,Psittrichas fulgidus,Cavity,30,TRUE,FALSE,FALSE
+323,Pheasant Coucal,Centropus phasianinus,Ground,50,FALSE,TRUE,FALSE
+413,Philippine Eagle,Pithecophaga jefferyi,Platform,193,TRUE,FALSE,FALSE
+187,Pied-Billed Grebe,Podilymbus podiceps,Platform,41,FALSE,FALSE,TRUE
+188,Pileated Woodpecker,Dryocopus pileatus,Cavity,74,TRUE,FALSE,FALSE
+189,Pine Siskin,Spinus pinus,Bowl,23,TRUE,FALSE,FALSE
+324,Pink-Eared Duck,Malacorhynchus membranaceus,Cavity,64,FALSE,FALSE,TRUE
+325,Plains-Wanderer,Pedionomus torquatus,Ground,32,FALSE,TRUE,FALSE
+414,Plumbeous Redstart,Phoenicurus fuliginosus,Bowl,21,FALSE,FALSE,TRUE
+326,Princess Stephanie's Astrapia,Astrapia stephaniae,Platform,45,TRUE,FALSE,FALSE
+190,Prothonotary Warbler,Protonotaria citrea,Cavity,23,TRUE,FALSE,TRUE
+327,Pūkeko,Porphyrio melanotus,Ground,78,FALSE,FALSE,TRUE
+191,Purple Gallinule,Porphyrio martinicus,Platform,56,FALSE,FALSE,TRUE
+415,Purple Heron,Ardea purpurea,Platform,135,FALSE,FALSE,TRUE
+192,Purple Martin,Progne subis,Cavity,46,FALSE,TRUE,TRUE
+193,Pygmy Nuthatch,Sitta pygmaea,Cavity,20,TRUE,FALSE,FALSE
+328,Rainbow Lorikeet,Trichoglossus moluccanus,Cavity,46,TRUE,FALSE,FALSE
+416,Red Avadavat,Amandava amandava,Wild,13,FALSE,TRUE,TRUE
+194,Red Crossbill,Loxia curvirostra,Bowl,28,TRUE,FALSE,FALSE
+417,Red Junglefowl,Gallus gallus,Ground,75,TRUE,TRUE,TRUE
+195,Red Kite,Milvus milvus,Platform,157,TRUE,TRUE,TRUE
+196,Red Knot,Calidris canutus,Ground,50,FALSE,FALSE,TRUE
+329,Red Wattlebird,Anthochaera carunculata,Bowl,49,TRUE,FALSE,FALSE
+330,Red-Backed Fairywren,Malurus melanocephalus,Wild,15,FALSE,TRUE,FALSE
+197,Red-Backed Shrike,Lanius collurio,Bowl,33,FALSE,TRUE,FALSE
+198,Red-Bellied Woodpecker,Melanerpes carolinus,Cavity,41,TRUE,FALSE,FALSE
+199,Red-Breasted Merganser,Mergus serrator,Ground,78,FALSE,FALSE,TRUE
+200,Red-Breasted Nuthatch,Sitta canadensis,Cavity,23,TRUE,FALSE,FALSE
+331,Red-Capped Robin,Petroica goodenovii,Bowl,17,TRUE,FALSE,FALSE
+201,Red-Cockaded Woodpecker,Picoides borealis,Cavity,36,TRUE,FALSE,FALSE
+418,Red-Crowned Crane,Grus japonensis,Ground,235,FALSE,FALSE,TRUE
+202,Red-Eyed Vireo,Vireo olivaceus,Wild,25,TRUE,FALSE,FALSE
+203,Red-Headed Woodpecker,Melanerpes erythrocephalus,Cavity,43,TRUE,TRUE,TRUE
+204,Red-Legged Partridge,Alectoris rufa,Ground,48,FALSE,TRUE,FALSE
+332,Red-Necked Avocet,Recurvirostra novaehollandiae,Ground,75,FALSE,FALSE,TRUE
+205,Red-Shouldered Hawk,Buteo lineatus,Platform,102,TRUE,FALSE,FALSE
+206,Red-Tailed Hawk,Buteo jamaicensis,Platform,124,TRUE,TRUE,TRUE
+419,Red-Vented Bulbul,Pycnonotus cafer,Bowl,28,FALSE,TRUE,FALSE
+420,Red-Wattled Lapwing,Vanellus indicus,Ground,81,FALSE,TRUE,TRUE
+207,Red-Winged Blackbird,Agelaius phoeniceus,Bowl,33,FALSE,TRUE,TRUE
+333,Red-Winged Parrot,Aprosmictus erythropterus,Cavity,49,TRUE,TRUE,TRUE
+334,Regent Bowerbird,Sericulus chrysocephalus,Bowl,36,TRUE,TRUE,FALSE
+421,Rhinoceros Auklet,Cerorhinca monocerata,Ground,62,FALSE,FALSE,TRUE
+208,Ring-Billed Gull,Larus delawarensis,Ground,122,FALSE,FALSE,TRUE
+422,Rock Pigeon,Columba livia,Platform,64,FALSE,TRUE,FALSE
+423,Rook,Corvus frugilegus,Platform,90,FALSE,TRUE,FALSE
+209,Rose-Breasted Grosbeak,Pheucticus ludovicianus,Bowl,33,TRUE,FALSE,FALSE
+424,Rose-Ringed Parakeet,Psittacula krameri,Cavity,45,TRUE,TRUE,FALSE
+210,Roseate Spoonbill,Platalea ajaja,Platform,127,FALSE,FALSE,TRUE
+425,Rosy Starling,Pastor roseus,Cavity,35,TRUE,TRUE,TRUE
+335,Royal Spoonbill,Platalea regia,Platform,120,FALSE,FALSE,TRUE
+211,Ruby-Crowned Kinglet,Regulus calendula,Bowl,20,TRUE,FALSE,FALSE
+212,Ruby-Throated Hummingbird,Archilochus colubris,Bowl,10,TRUE,TRUE,TRUE
+213,Ruddy Duck,Oxyura jamaicensis,Platform,48,FALSE,FALSE,TRUE
+426,Ruddy Shelduck,Tadorna ferruginea,Cavity,123,FALSE,FALSE,TRUE
+214,Ruff,Calidris pugnax,Ground,56,FALSE,TRUE,TRUE
+336,Rufous Night-Heron,Nycticorax caledonicus,Platform,106,FALSE,FALSE,TRUE
+337,Rufous Owl,Ninox rufa,Cavity,115,TRUE,FALSE,FALSE
+338,Rufous-Banded Honeyeater,Conopophila albogularis,Bowl,22,TRUE,FALSE,TRUE
+339,Sacred Kingfisher,Todiramphus sanctus,Cavity,30,TRUE,TRUE,TRUE
+215,Sandhill Crane,Antigone canadensis,Ground,196,FALSE,TRUE,TRUE
+427,Sarus Crane,Antigone antigone,Ground,250,FALSE,FALSE,TRUE
+428,Satyr Tragopan,Tragopan satyra,Platform,26,TRUE,FALSE,FALSE
+216,Savannah Sparrow,Passerculus sandwichensis,Ground,18,FALSE,TRUE,FALSE
+217,Savi's Warbler,Locustella luscinioides,Bowl,20,FALSE,FALSE,TRUE
+218,Say's Phoebe,Sayornis saya,Bowl,33,FALSE,TRUE,FALSE
+219,Scaled Quail,Callipepla squamata,Ground,36,FALSE,TRUE,FALSE
+429,Scaly-Breasted Munia,Lonchura punctulata,Wild,22,FALSE,TRUE,TRUE
+220,Scissor-Tailed Flycatcher,Tyrannus forficatus,Bowl,38,FALSE,TRUE,FALSE
+221,Short-Toed Treecreeper,Certhia brachydactyla,Cavity,20,TRUE,FALSE,FALSE
+340,Silvereye,Zosterops lateralis,Bowl,17,TRUE,TRUE,TRUE
+430,Small Minivet,Pericrocotus cinnamomeus,Bowl,28,TRUE,FALSE,FALSE
+431,Smew,Mergellus albellus,Cavity,62,TRUE,FALSE,TRUE
+222,Snow Bunting,Plectrophenax nivalis,Cavity,35,FALSE,TRUE,TRUE
+223,Snowy Egret,Egretta thula,Platform,104,FALSE,FALSE,TRUE
+224,Snowy Owl,Bubo scandiacus,Ground,138,FALSE,TRUE,TRUE
+225,Song Sparrow,Melospiza melodia,Bowl,20,TRUE,TRUE,TRUE
+341,South Island Robin,Petroica australis,Bowl,24,TRUE,TRUE,FALSE
+342,Southern Cassowary,Casuarius casuarius,Ground,*,TRUE,FALSE,FALSE
+343,Spangled Drongo,Dicrurus bracteatus,Bowl,27,TRUE,FALSE,FALSE
+344,Splendid Fairywren,Malurus splendens,Wild,15,TRUE,TRUE,FALSE
+432,Spoon-Billed Sandpiper,Calidris pygmaea,Ground,35,FALSE,FALSE,TRUE
+345,Spotless Crake,Zapornia tabuensis,Ground,28,FALSE,FALSE,TRUE
+433,Spotted Dove,Streptopelia chinensis,Platform,45,TRUE,TRUE,TRUE
+226,Spotted Owl,Strix occidentalis,Cavity,102,TRUE,FALSE,FALSE
+227,Spotted Sandpiper,Actitis macularius,Ground,38,FALSE,FALSE,TRUE
+228,Spotted Towhee,Pipilo maculatus,Ground,28,TRUE,TRUE,FALSE
+229,Sprague's Pipit,Anthus spragueii,Ground,25,FALSE,TRUE,FALSE
+230,Squacco Heron,Ardeola ralloides,Platform,86,FALSE,FALSE,TRUE
+434,Sri Lanka Blue-Magpie,Urocissa ornata,Bowl,74,TRUE,FALSE,FALSE
+435,Sri Lanka Frogmouth,Batrachostomus moniliger,Bowl,36,TRUE,FALSE,FALSE
+231,Steller's Jay,Cyanocitta stelleri,Bowl,48,TRUE,FALSE,FALSE
+436,Stork-Billed Kingfisher,Pelargopsis capensis,Cavity,56,FALSE,FALSE,TRUE
+346,Stubble Quail,Coturnix pectoralis,Ground,29,FALSE,TRUE,FALSE
+347,Sulphur-Crested Cockatoo,Cacatua galerita,Cavity,103,TRUE,FALSE,FALSE
+348,Superb Lyrebird,Menura novaehollandiae,Wild,73,TRUE,FALSE,FALSE
+232,Swainson's Hawk,Buteo swainsoni,Platform,130,FALSE,TRUE,FALSE
+349,Tawny Frogmouth,Podargus strigoides,Platform,82,TRUE,TRUE,TRUE
+233,Thekla's Lark,Galerida theklae,Ground,34,FALSE,TRUE,FALSE
+234,Tree Swallow,Tachycineta bicolor,Cavity,38,FALSE,FALSE,TRUE
+437,Trumpeter Finch,Bucanetes githagineus,Ground,24,FALSE,TRUE,FALSE
+235,Trumpeter Swan,Cygnus buccinator,Ground,203,FALSE,FALSE,TRUE
+236,Tufted Titmouse,Baeolophus bicolor,Cavity,25,TRUE,FALSE,FALSE
+350,Tūī,Prosthemadera novaeseelandiae,Bowl,42,TRUE,FALSE,FALSE
+237,Turkey Vulture,Cathartes aura,Cavity,170,TRUE,TRUE,TRUE
+438,Twite,Linaria flavirostris,Bowl,23,FALSE,TRUE,FALSE
+238,Vaux's Swift,Chaetura vauxi,Cavity,31,TRUE,FALSE,FALSE
+439,Verditer Flycatcher,Eumyias thalassinus,Cavity,26,TRUE,FALSE,FALSE
+440,Violet Cuckoo,Chrysococcyx xanthorhynchus,None,27,TRUE,FALSE,FALSE
+239,Violet-Green Swallow,Tachycineta thalassina,Cavity,36,TRUE,TRUE,TRUE
+351,Wedge-Tailed Eagle,Aquila audax,Platform,207,TRUE,TRUE,TRUE
+352,Welcome Swallow,Hirundo neoxena,Wild,28,FALSE,TRUE,TRUE
+240,Western Meadowlark,Sturnella neglecta,Ground,38,FALSE,TRUE,FALSE
+241,Western Tanager,Piranga ludoviciana,Bowl,30,TRUE,FALSE,FALSE
+242,White Stork,Ciconia ciconia,Platform,160,FALSE,TRUE,TRUE
+243,White Wagtail,Motacilla alba,Bowl,28,FALSE,TRUE,TRUE
+244,White-Backed Woodpecker,Dendrocopos leucotos,Cavity,39,TRUE,FALSE,FALSE
+353,White-Bellied Sea-Eagle,Haliaeetus leucogaster,Platform,200,TRUE,FALSE,TRUE
+245,White-Breasted Nuthatch,Sitta carolinensis,Cavity,28,TRUE,FALSE,FALSE
+354,White-Breasted Woodswallow,Artamus leucoryn,Bowl,32,FALSE,TRUE,FALSE
+441,White-Browed Tit-Warbler,Leptopoecile sophiae,Wild,12,TRUE,FALSE,FALSE
+442,White-Crested Laughingthrush,Garrulax leucolophus,Bowl,35,TRUE,FALSE,FALSE
+246,White-Crowned Sparrow,Zonotrichia leucophrys,Ground,25,TRUE,TRUE,TRUE
+355,White-Faced Heron,Egretta novaehollandiae,Platform,106,FALSE,FALSE,TRUE
+247,White-Faced Ibis,Plegadis chihi,Platform,91,FALSE,FALSE,TRUE
+443,White-Headed Duck,Oxyura leucocephala,Ground,66,FALSE,FALSE,TRUE
+248,White-Throated Dipper,Cinclus cinclus,Cavity,28,FALSE,FALSE,TRUE
+444,White-Throated Kingfisher,Halcyon smyrnensis,Cavity,42,TRUE,TRUE,TRUE
+249,White-Throated Swift,Aeronautes saxatalis,Cavity,38,FALSE,TRUE,FALSE
+250,Whooping Crane,Grus americana,Ground,221,FALSE,FALSE,TRUE
+251,Wild Turkey,Meleagris gallopavo,Ground,135,TRUE,TRUE,FALSE
+252,Willet,Tringa semipalmata,Ground,66,FALSE,FALSE,TRUE
+356,Willie-Wagtail,Rhipidura leucophrys,Bowl,30,TRUE,TRUE,TRUE
+445,Willow Tit,Poecile montanus,Cavity,20,TRUE,FALSE,FALSE
+253,Wilson's Snipe,Gallinago delicata,Ground,41,FALSE,FALSE,TRUE
+254,Wilson's Storm Petrel,Oceanites oceanicus,Wild,38,FALSE,FALSE,TRUE
+255,Wood Duck,Aix sponsa,Cavity,76,TRUE,FALSE,TRUE
+256,Wood Stork,Mycteria americana,Platform,155,FALSE,FALSE,TRUE
+357,Wrybill,Anarhynchus frontalis,Ground,49,FALSE,FALSE,TRUE
+446,Yellow Bittern,Ixobrychus sinensis,Platform,49,FALSE,FALSE,TRUE
+257,Yellow-Bellied Sapsucker,Sphyrapicus varius,Cavity,41,TRUE,FALSE,FALSE
+258,Yellow-Billed Cuckoo,Coccyzus americanus,Platform,46,TRUE,FALSE,FALSE
+259,Yellow-Breasted Chat,Icteria virens,Bowl,25,TRUE,TRUE,TRUE
+260,Yellow-Headed Blackbird,Xanthocephalus xanthocephalus,Bowl,38,FALSE,FALSE,TRUE
+261,Yellow-Rumped Warbler,Setophaga coronata,Bowl,23,TRUE,FALSE,FALSE
+262,Yellowhammer,Emberiza citrinella,Ground,26,TRUE,TRUE,FALSE
+447,Zebra Dove,Geopelia striata,Platform,25,FALSE,TRUE,FALSE
