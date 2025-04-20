@@ -70,6 +70,23 @@ uv pip install package-name
 uv pip freeze > requirements.txt
 ```
 
+## Running with ADK
+
+```bash
+# cli
+adk run scr
+
+# Web UI
+adk web
+```
+
+
+## Evaluations
+
+```bash
+pytest src/eval/
+```
+
 ## License
 
-MIT License 
+MIT License

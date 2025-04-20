@@ -1,0 +1,60 @@
+[
+  {
+    "query": "Tell me about Bald Eagle",
+    "expected_tool_use": [
+      {
+        "tool_name": "transfer_to_agent",
+        "tool_input": {
+          "agent_name": "bird_facts_agent_v1"
+        }
+      },
+      {
+        "tool_name": "get_bird",
+        "tool_input": {
+          "bird_name": "Bald Eagle"
+        }
+      }
+    ],
+    "expected_intermediate_agent_responses": [],
+    "reference": "The Bald Eagle's scientific name is Haliaeetus leucocephalus. They build Platform nests and their wingspan is 203 cm. They live in Wetland habitats.\n"
+  },
+  {
+    "query": "Where do wild turkeys nest?",
+    "expected_tool_use": [
+      {
+        "tool_name": "get_bird",
+        "tool_input": {
+          "bird_name": "Wild Turkey"
+        }
+      }
+    ],
+    "expected_intermediate_agent_responses": [],
+    "reference": "Wild Turkeys build Ground nests.\n"
+  },
+  {
+    "query": "tell me about rufous owl?",
+    "expected_tool_use": [
+      {
+        "tool_name": "get_bird",
+        "tool_input": {
+          "bird_name": "Rufous Owl"
+        }
+      }
+    ],
+    "expected_intermediate_agent_responses": [],
+    "reference": "The Rufous Owl's scientific name is Ninox rufa. They build Cavity nests and their wingspan is 115 cm. They live in Forest habitats.\n"
+  },
+  {
+    "query": "What's the habitat of snowy owl?",
+    "expected_tool_use": [
+      {
+        "tool_name": "get_bird",
+        "tool_input": {
+          "bird_name": "Snowy Owl"
+        }
+      }
+    ],
+    "expected_intermediate_agent_responses": [],
+    "reference": "The Snowy Owl lives in Grassland and Wetland habitats.\n"
+  }
+]
